@@ -5,7 +5,7 @@ import csv
 import xml.etree.ElementTree as Xet
 import pandas as pd
 
-# This is a XML parser script, whitch fetches student information from XML files gathered from en tiedä mistä
+# This is a XML parser script, whitch fetches student information from XML files gathered from primus application
 # and refactors the data to easily readable and modifiable CSV table format
 
 # Create timestamp
