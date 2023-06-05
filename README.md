@@ -1,2 +1,0 @@
-# myapps
-Scripts and projects
